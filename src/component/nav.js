@@ -47,29 +47,7 @@ function nav() {
           <li className="link link_icon">
           <Link to="/">Contact</Link>
             {/* <a href="#">Contact </a> */}
-            <a href="#" >Landing</a>
-          </li>
-          <li className="link">
-            <a href="#" >Home</a>
-          </li>
-          <li className="link">
-            <a href="#" >Gallery</a>
-          </li>
-          <li className="link">
-            <a href="#" >Shop</a>
-          </li>
-          <li className="link">
-            <a href="#" >Blog</a>
-          </li>
-          <li className="link">
-            <a href="#" >About</a>
-          </li>
-          <li className="link">
-            <a href="#" >Team</a>
-          </li>
-          <li className="link link_icon">
-            <a href="#">Contact </a>
-         <a href="# "><img src={shopping} className="icon"/></a>
+           <a href="# "><img src={shopping} className="icon"/></a>
           </li>
         </ul>
       </dv>

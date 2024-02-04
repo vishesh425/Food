@@ -6,7 +6,11 @@ import Section_4  from './f_section'
 function home() {
     return (
       <div >
+<<<<<<< HEAD
         {/* <Nav/> */}
+=======
+        <Nav/>
+>>>>>>> origin/master
         <First_section/>
         <Section_2/>
         <Section_3/>

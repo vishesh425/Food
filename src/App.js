@@ -1,4 +1,5 @@
 import Home from './component/home'
+<<<<<<< HEAD
 import {
   BrowserRouter as Router,
   Routes,
@@ -55,6 +56,13 @@ function App() {
            </Routes>
        </div>
    </Router>
+=======
+function App() {
+  return (
+    <div >
+      <Home/>
+    </div>
+>>>>>>> origin/master
   );
 }
 

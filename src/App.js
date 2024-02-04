@@ -1,5 +1,4 @@
 import Home from './component/home'
-<<<<<<< HEAD
 import {
   BrowserRouter as Router,
   Routes,
@@ -10,10 +9,6 @@ import Nav  from './component/nav'
 
 function App() {
   return (
-    // <div >
-    //   <Home/>
-      
-    // </div>
        <Router>
        <div>
            {/* <ul>
@@ -56,13 +51,6 @@ function App() {
            </Routes>
        </div>
    </Router>
-=======
-function App() {
-  return (
-    <div >
-      <Home/>
-    </div>
->>>>>>> origin/master
   );
 }
 

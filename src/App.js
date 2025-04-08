@@ -11,26 +11,16 @@ function App() {
   return (
        <Router>
        <div>
-           {/* <ul>
-               <li>
-                   <Link to="/">Home</Link>
-               </li>
-               <li>
-                   <Link to="/about">
-                       About Us
-                   </Link>
-               </li>
-               <li>
-                   <Link to="/contact">
-                       Contact Us
-                   </Link>
-               </li>
-           </ul> */}
-           <Nav/>
+             <Nav/>
            <Routes>
                <Route
                    exact
                    path="/"
+                   element={<Home />}
+               ></Route>
+               <Route
+                   exact
+                   path="/react-gh-pages"
                    element={<Home />}
                ></Route>
                <Route

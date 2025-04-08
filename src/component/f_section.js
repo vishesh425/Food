@@ -1,4 +1,4 @@
-import images from "../img/images__.jpeg";
+// import images from "../img/images__.jpeg";
 function f_section() {
   return (
     <div className="fo_container">
@@ -16,7 +16,10 @@ function f_section() {
           </div>
         </div>
         <div className="grid-item">
-          <img className="gride_img" src={images} />
+          <img
+            className="gride_img"
+            src="https://storage.googleapis.com/a1aa/image/MmjE0At1uRSfp8nfxeZqUWlmRvKsuNp8R8YT3xlRiP8.jpg"
+          />
         </div>
         <div className="grid-item">
           <div className="gride_text">
@@ -31,7 +34,10 @@ function f_section() {
           </div>
         </div>
         <div className="grid-item">
-          <img className="gride_img" src={images} />
+          <img
+            className="gride_img"
+            src="https://storage.googleapis.com/a1aa/image/pF-KhawE5YZ2Uwwib3K129B0LuQy-p4dewZF0bASlxo.jpg"
+          />
         </div>
         <div className="grid-item">
           <div className="gride_text">
@@ -46,10 +52,13 @@ function f_section() {
           </div>
         </div>
         <div className="grid-item">
-          <img className="gride_img" src={images} />
+          <img
+            className="gride_img"
+            src="https://storage.googleapis.com/a1aa/image/Rxh4IdDiGEL6bk2Vj5CoSnTW8Txz36_99wiuM2jsbRc.jpg"
+          />
         </div>
         <div className="grid-item">
-        <div className="gride_text">
+          <div className="gride_text">
             <span>$40.5</span>
             <h4>King Crab</h4>
             <p>
@@ -58,12 +67,16 @@ function f_section() {
               quae ab illo inventore veritatis et quasi architecto beatae vitae
               dicta sunt.
             </p>
-          </div></div>
-        <div className="grid-item">
-          <img className="gride_img" src={images} />
+          </div>
         </div>
         <div className="grid-item">
-        <div className="gride_text">
+          <img
+            className="gride_img"
+            src="https://storage.googleapis.com/a1aa/image/kjmODVFUmsGQTNuu_7hnG2Psdyzjt52Kha7mC60qITg.jpg"
+          />
+        </div>
+        <div className="grid-item">
+          <div className="gride_text">
             <span>$40.5</span>
             <h4>King Crab</h4>
             <p>
@@ -72,12 +85,16 @@ function f_section() {
               quae ab illo inventore veritatis et quasi architecto beatae vitae
               dicta sunt.
             </p>
-          </div></div>
-        <div className="grid-item">
-          <img className="gride_img" src={images} />
+          </div>
         </div>
         <div className="grid-item">
-        <div className="gride_text">
+          <img
+            className="gride_img"
+            src="https://storage.googleapis.com/a1aa/image/EtVWd4ET9IvlS1oINuxTUyKsCTpzbj2Bh_UXjOOUNv0.jpg"
+          />
+        </div>
+        <div className="grid-item">
+          <div className="gride_text">
             <span>$40.5</span>
             <h4>King Crab</h4>
             <p>
@@ -86,9 +103,13 @@ function f_section() {
               quae ab illo inventore veritatis et quasi architecto beatae vitae
               dicta sunt.
             </p>
-          </div></div>
+          </div>
+        </div>
         <div className="grid-item">
-          <img className="gride_img" src={images} />
+          <img
+            className="gride_img"
+            src="https://storage.googleapis.com/a1aa/image/MmjE0At1uRSfp8nfxeZqUWlmRvKsuNp8R8YT3xlRiP8.jpg"
+          />
         </div>
       </div>
     </div>

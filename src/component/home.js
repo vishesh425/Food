@@ -18,8 +18,6 @@ function home() {
       <Section_6 /> 
       <Section_7 /> 
       <Section_8 /> 
-      {/*<Section_25 />*/}
-
     </div>
   );
 }
